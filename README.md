@@ -21,3 +21,6 @@ Enter the API key in the file NetworkUtils.java </br></br>
 
 ## Screenshots
 
+![1](https://user-images.githubusercontent.com/45323928/49493623-ca3b5100-f82a-11e8-8471-14bd89964b28.png)![2](https://user-images.githubusercontent.com/45323928/49493626-ce676e80-f82a-11e8-91bf-8a0423f04ecf.png)
+![3](https://user-images.githubusercontent.com/45323928/49493629-d2938c00-f82a-11e8-84a1-330ad73e1a87.png)![4](https://user-images.githubusercontent.com/45323928/49493637-d7f0d680-f82a-11e8-8f10-7ffb235afb66.png)
+![5](https://user-images.githubusercontent.com/45323928/49493645-db845d80-f82a-11e8-93e7-93eb3292c651.png)
