@@ -1,0 +1,19 @@
+<resources>
+  <string name="app_name">Popular Movies</string>
+  <string name="item_movie_description">Movie Description</string>
+
+  <!-- menu_main.xml -->
+  <string name="popular">Popular</string>
+  <string name="top_rated">Top Rated</string>
+
+  <!-- activity_detail.xml -->
+  <string name="release_date">Release Date:</string>
+  <string name="synopsis_label">Synopsis:</string>
+  <string name="movie_poster">Movie Poster</string>
+  <string name="videos">Videos:</string>
+  <string name="reviews">Reviews:</string>
+
+  <!-- menu_detail.xml -->
+  <string name="favorite">Favorite</string>
+
+</resources>
